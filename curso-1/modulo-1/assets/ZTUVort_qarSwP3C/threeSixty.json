@@ -1,0 +1,37 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "5tMXzFQJFmL_course_id",
+  "title": "Act-3-Modelos-de-Industria-para-la-Gestión-de-Servicios-de-TI",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6pYxP8hFUL3",
+      "title": "Diapositiva sin título",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6eWL9D1HiB9",
+      "title": "Arrastrar y soltar",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6Nk4rTS9Rfe",
+      "title": "Diapositiva sin título",
+      "scene_index": "1.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
